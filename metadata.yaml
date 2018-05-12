@@ -1,0 +1,37 @@
+_repo: Le-maccheroneeZanitonella---Baldus---Moscheide---Epigrammata_33982
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Folengo, Teofilo
+    alias: Folengo, Girolamo
+    birthdate: 1496
+    deathdate: 1544
+    gutenberg_agent_id: '36614'
+    url: http://www.gutenberg.org/2009/agents/36614
+    wikipedia: http://en.wikipedia.org/wiki/Teofilo_Folengo
+  editor:
+    agent_name: Luzio, Alessandro
+    birthdate: 1857
+    deathdate: 1946
+    gutenberg_agent_id: '36615'
+    url: http://www.gutenberg.org/2009/agents/36615
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2010-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33982'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Macaronic poetry'
+- !lcc 'PQ'
+title: 'Le maccheronee
+
+  Zanitonella - Baldus - Moscheide - Epigrammata'
+url: http://www.gutenberg.org/ebooks/33982
